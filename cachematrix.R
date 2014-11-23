@@ -1,5 +1,5 @@
-## the goal is to be able to take in a matrix, and solve and cache its inverse, 
-## and then detect if we've cached the inverse previously, and produce it
+## The ultimate goal is to be able to take in a matrix, and solve and cache its inverse, 
+## and then produce the inverse, either by detected the cached inverse, or solving it for the first time
 
 ## this first function sets up the objects that we will need to later be able
 ## to detect if there is a cached inverse
